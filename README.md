@@ -1,2 +1,2 @@
 # Cadastro de Pessoas 
- Cadastro de Pessoas Simplista
+ Cadastro de Pessoas Simples
