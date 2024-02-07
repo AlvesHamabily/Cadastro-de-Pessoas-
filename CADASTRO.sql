@@ -1,0 +1,12 @@
+CREATE DATABASE CADASTRO;
+USE CADASTRO;
+
+CREATE TABLE Pessoa(
+	id INT PRIMARY KEY AUTO_INCREMENT,
+	nome VARCHAR(30),
+    idade INT 
+    );
+
+SELECT nome, idade FROM Pessoa WHERE id>0;
+SELECT * FROM Pessoa;
+
