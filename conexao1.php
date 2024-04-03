@@ -1,8 +1,8 @@
 <?php
 
-    $servidor="localhost:3306";
-    $usuario="root";
-    $senha="Has.2024";
+    $servidor="localhost";
+    $usuario="usuario";
+    $senha="senhaUsuario";
     $dbname="CADASTRO";
 
     $conexao=mysqli_connect($servidor, $usuario, $senha, $dbname);
